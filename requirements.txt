@@ -1,0 +1,14 @@
+pip~=22.3.1
+attrs~=23.1.0
+argparse~=1.4.0
+wheel~=0.38.4
+google~=3.0.0
+cryptography~=41.0.5
+Pillow~=10.1.0
+docutils~=0.20.1
+tornado~=6.1
+Jinja2~=3.1.2
+setuptools~=65.5.1
+packaging~=23.1
+pyparsing~=3.0.9
+Django~=4.2.5
